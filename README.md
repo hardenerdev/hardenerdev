@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=hardenerdev&show_icons=false&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=000000)
+<!-- ![Statistics](https://github-readme-stats.vercel.app/api?username=hardenerdev&show_icons=false&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=000000) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardenerdev&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
