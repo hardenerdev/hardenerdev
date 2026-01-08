@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Top Langs](./profile/top-langs.svg)
+![Top Langs](./profile/top-langs.svg)
